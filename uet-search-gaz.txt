@@ -1,0 +1,23 @@
+quality	ngon
+quality	nhiều người đến
+quality	đông người ăn
+quality	sạch
+type	cặp đôi
+type	hội quán
+type	gia đình
+cost	rẻ
+cost	văn phòng
+cost	sinh viên
+cost	đắt
+cost	trung bình
+command	chỗ bán
+command	tìm cho tôi
+command	cần tìm
+command	tìm
+time	đang
+time	buổi sáng
+time	buổi tối
+time	8 giờ sáng
+time	8 giờ tối
+time	20 giờ
+time	sắp

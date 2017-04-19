@@ -1,0 +1,9 @@
+opennlp ToolNameTrainer -model en-model-name.bin -lang en -data input.train -encoding UTF-8
+opennlp ToolNameTrainer -model en-model-name.bin -lang en -data input.train -encoding UTF-8 -types per
+
+opennlp TokenNameFinderTrainer -model restaurants-ner.bin -lang vi -data restaurants-ner.txt -encoding UTF-8
+opennlp TokenNameFinder restaurants-ner.bin
+opennlp DoccatTrainer -model restaurants-dc.bin -lang vi -data restaurants-dc.txt -encoding UTF-8
+opennlp Doccat restaurants-dc.bin
+
+java -cp stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop crf.prop
