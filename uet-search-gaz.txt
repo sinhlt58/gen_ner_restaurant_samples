@@ -5,6 +5,8 @@ quality	sạch
 type	cặp đôi
 type	hội quán
 type	gia đình
+type	sang trọng
+type	ngoài trời
 cost	rẻ
 cost	văn phòng
 cost	sinh viên

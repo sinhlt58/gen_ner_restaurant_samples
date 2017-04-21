@@ -23,7 +23,7 @@ list_context_files = ["location"]
 gen_template_queries(template_p_queries_file, list_context_files)
 template_p_queries_file.close()
 #read normal queries
-list_context_files = ["combine", "cost", "quality", "time"]
+list_context_files = ["combine", "cost", "quality", "time", "type"]
 gen_template_queries(template_n_queries_file, list_context_files)
 template_n_queries_file.close()
 

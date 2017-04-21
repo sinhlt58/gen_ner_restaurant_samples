@@ -5718,3 +5718,23 @@ dê cuốn mỡ chài mở cửa 8 giờ sáng
 dê cuốn mỡ chài mở cửa 8 giờ tối
 dê cuốn mỡ chài mở cửa 20 giờ
 dê cuốn mỡ chài mở cửa sắp
+cơm cặp đôi
+cơm hội quán
+cơm gia đình
+cơm sang trọng
+cơm ngoài trời
+bún chả cặp đôi
+bún chả hội quán
+bún chả gia đình
+bún chả sang trọng
+bún chả ngoài trời
+thỏ xào lăn cặp đôi
+thỏ xào lăn hội quán
+thỏ xào lăn gia đình
+thỏ xào lăn sang trọng
+thỏ xào lăn ngoài trời
+dê cuốn mỡ chài cặp đôi
+dê cuốn mỡ chài hội quán
+dê cuốn mỡ chài gia đình
+dê cuốn mỡ chài sang trọng
+dê cuốn mỡ chài ngoài trời
